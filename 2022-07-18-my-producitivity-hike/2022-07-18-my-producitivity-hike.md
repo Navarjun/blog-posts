@@ -3,7 +3,7 @@ title: “My productivity hike”
 date: 2022-07-18T12:00:00Z
 categories: [“musings”]
 thumbnail: “cover.jpg”
-image: “cover.jpg”
+image: cover.jpg
 ---
 
 _Originally posted on Substack by the author_

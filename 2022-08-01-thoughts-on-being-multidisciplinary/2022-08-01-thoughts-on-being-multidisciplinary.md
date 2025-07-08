@@ -3,7 +3,7 @@ title: “Thoughts on being multi-disciplinary”
 date: 2022-08-01T12:00:00Z
 categories: [“musings”]
 thumbnail: “cover.webp”
-image: “cover.webp”
+image: cover.webp
 ---
 
 _Originally posted on Substack by the author_
