@@ -1,5 +1,5 @@
 ---
-title: “Thoughts on being multi-disciplinary”
+title: Thoughts on being multi-disciplinary
 date: 2022-08-01T12:00:00Z
 categories: [“musings”]
 thumbnail: cover.webp
