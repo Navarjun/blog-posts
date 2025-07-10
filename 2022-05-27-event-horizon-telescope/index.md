@@ -2,7 +2,7 @@
 title: The achievement of the Event Horizon Telescope
 date: 2022-05-27T12:00:00Z
 categories: [“science"]
-thumbnail: first-black-hole-image.webp
+thumbnail: cover_16x9.jpg
 ---
 
 _Originally posted on Substack by the author_

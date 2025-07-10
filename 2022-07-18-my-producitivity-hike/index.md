@@ -2,7 +2,7 @@
 title: My productivity hike
 date: 2022-07-18T12:00:00Z
 categories: [“musings”]
-thumbnail: cover.jpg
+thumbnail: cover_16x9.jpg
 image: cover.jpg
 ---
 
