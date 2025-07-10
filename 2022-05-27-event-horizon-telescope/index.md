@@ -1,5 +1,5 @@
 ---
-title: "The achievement of the Event Horizon Telescope"
+title: The achievement of the Event Horizon Telescope
 date: 2022-05-27T12:00:00Z
 categories: [“science"]
 thumbnail: first-black-hole-image.webp
@@ -7,8 +7,8 @@ thumbnail: first-black-hole-image.webp
 
 _Originally posted on Substack by the author_
 
-![Sagittarius A*](first-black-hole-image.webp)
-*Sagittarius A*: The blackhole in the centre of our own galaxy, Milkyway ([Link](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy))*
+![Sagittarius A\*](first-black-hole-image.webp)
+_Sagittarius A\*: The blackhole in the centre of our own galaxy, Milkyway ([Link](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy))_
 
 If you haven't seen this image, but reached this post, written by me… First of all, thanks for the honour. Secondly, this image symbolizes numerous achievements of the human civilization.
 
@@ -27,7 +27,7 @@ How do we know what we see in the image is a blackhole?
 It has been suspected since the 1980s that there might be a blackhole at the galactic centre. However, it wasn't until 2008 that all the doubts were cleared.[[2](https://www.universetoday.com/22104/beyond-any-reasonable-doubt-a-supermassive-black-hole-lives-in-centre-of-our-galaxy/)] The left image below shows a composite video of the galactic centre captured over 26 years.[[3](https://www.eso.org/public/news/eso1825/)] And the right one, depicting estimated orbits of stars around the blackhole[[4](https://arxiv.org/abs/astro-ph/0502129)], is a more obvious data visualization.
 
 ![Timelapse of stars orbiting incredibly fast around a seemingly blank space](stars-orbit.gif)
-*Timelapse of stars orbiting incredibly fast around a seemingly blank space*
+_Timelapse of stars orbiting incredibly fast around a seemingly blank space_
 
 It is worth bringing the attention to the fact that blackholes are a perfect black. They reflect/create no signals, and one can think of them as regions of space rather than objects in space. We can never see a blackhole using light (the whole electromagnetic spectrum is totally absorbed by the blackholes).
 
@@ -52,7 +52,7 @@ By the time all of the above, plus more, was figured out. Numerous blackholes we
 ## Apparent size
 
 ![A full moon in the top-left with a relatively tiny Jupiter visible with a few of its moons](moon-and-jupiter.jpeg)
-*Moon and Jupiter with it's moons — By Bautsch ([link](https://commons.wikimedia.org/w/index.php?curid=57904264))*
+_Moon and Jupiter with it's moons — By Bautsch ([link](https://commons.wikimedia.org/w/index.php?curid=57904264))_
 
 Everything in our skies has an absolute size and an apparent size. For instance, the moon in the above picture has a large apparent size as compared to Jupiter in the bottom-right corner of the image. While Jupiter's absolute size is bigger. Consequently, it is easier to photograph the moon than Jupiter.
 
@@ -65,11 +65,11 @@ To make observations of the apparent size of any of these black holes, the size 
 So, larger the telescope, the smaller objects it can observe. Unfortunately, to observe the apparent sizes of the blackhole(s) we need a telescope the size of the Earth, which is impossible to build. (at least for now) So EHT fallbacks to the next best thing, using the radio telescopes all around the Earth to mimic a telescope as large as the Earth. EHT uses the rotation of the planet to get more data points within this virtual planet-sized telescope.
 
 ![A graph showing a few arcs roughly forming a disc which represent the visible pixels for Event Horizon Telescope](eht-view.gif)
-*Technology of Event Horizon Telescope ([read more](https://eventhorizontelescope.org/technology))*
+_Technology of Event Horizon Telescope ([read more](https://eventhorizontelescope.org/technology))_
 
 ## Other challenges
 
-Initially, the EHT team decided to photograph Sagittarius A* first. Soon realizing that M87 should be attempted before Sagittarius A*. There were 2 major reasons. First, the line of sight from our planet to the galactic center has a lot of objects and gas clouds interupting our vision. Second, the smaller size of Sagittarius A* makes something moving at high speeds orbit it faster causing too many changes (imagine a long exposure photograph) in a short period of time. M87 is large so something moving at the light speed also takes longer to complete an orbit. This leads to more consistent overtime observations for M87.
+Initially, the EHT team decided to photograph Sagittarius A* first. Soon realizing that M87 should be attempted before Sagittarius A*. There were 2 major reasons. First, the line of sight from our planet to the galactic center has a lot of objects and gas clouds interupting our vision. Second, the smaller size of Sagittarius A\* makes something moving at high speeds orbit it faster causing too many changes (imagine a long exposure photograph) in a short period of time. M87 is large so something moving at the light speed also takes longer to complete an orbit. This leads to more consistent overtime observations for M87.
 
 Veritasium explains is better on Youtube.([video link](https://youtu.be/Q1bSDnuIPbo))
 

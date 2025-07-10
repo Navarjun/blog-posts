@@ -27,11 +27,11 @@ I am not an engineer with a deep knowledge of every web development tool there i
 
 ## Should anyone be punished for being multi-disciplinary?
 
-    A designer who knows how to program computers.
+> A designer who knows how to program computers.
 
 There aren't many people in the world, who can say that. There definitely are people who are great designers (better than me) with a programming knowledge and vice-versa. But only a few who enjoy doing both the things. The confusion I see on many people's faces with that is, probably, also present in some of the reader's minds.
 
-![“A collection of nicely arranged bottles with the same shape and contents, except one that stands out”](stand-out.webp)
+![A collection of nicely arranged bottles with the same shape and contents, except one that stands out](stand-out.webp)
 _Still a bottle, but a bit different_
 
 To feed more into that confusion, I am interested in astronomy, medicine, preventative healthcare, information freedom, psychology, archeology, history, cultural significance, photography, architecture and other things. Go figure. I love learning about different things. I am just a curious person who likes to learn about new things that I find fascinating.
@@ -46,8 +46,8 @@ So, the question remains, what am I? A Computer Engineer or a Designer or just s
 
 This section is for the people in the industry who are hiring. The question in the title of this section is something we are supposed to ask ourselves before interviewing; and be able to articulate the answer to the interviewer. Writing this section is my effort to learn articulating those thoughts, and hopefully, finding a way to say it concisely in an interview.
 
-![A table top with collection of things which are quite different from each other with a common theme of red colour](table.webp)
-_There’s a theme in the multitude of thingss_
+![Table top with collection of things which are quite different from each other with a common theme of red colour](table.webp)
+_There’s a theme in the multitude of things_
 
 I am a designer who knows programming. Yes, that's my skill-set.
 
