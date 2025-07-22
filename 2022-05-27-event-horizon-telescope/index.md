@@ -1,13 +1,13 @@
 ---
 title: The achievement of the Event Horizon Telescope
 date: 2022-05-27T12:00:00Z
-categories: [“science"]
+categories: ["science"]
 thumbnail: cover_16x9.jpg
 ---
 
 _Originally posted on Substack by the author_
 
-![Sagittarius A\*](first-black-hole-image.webp)
+![Sagittarius A*](first-black-hole-image.webp)
 _Sagittarius A\*: The blackhole in the centre of our own galaxy, Milkyway ([Link](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy))_
 
 If you haven't seen this image, but reached this post, written by me… First of all, thanks for the honour. Secondly, this image symbolizes numerous achievements of the human civilization.
