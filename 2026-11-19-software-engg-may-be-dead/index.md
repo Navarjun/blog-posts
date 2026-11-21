@@ -17,6 +17,9 @@ I have been wanting to share my thoughts about AI for quite a while now. However
 This is a familiar headline since the past few years. Most of me laughs at that. But *a part of me* wonders about its truth. Nobody can see the future, so, what if the headline is true? Sorry, I digress. This post is not about the future, it’s about the present. AI is already a capable programmer. It has been, since yesterday. Now what?
 
 ## Should I stop writing code?
+![A neon sign saying “You’re not dead yet”](cover_16x9.jpg)
+_Just like a bird sings, humans also do things, some paint, some read, some sing, some write books, some write software and many dance_
+
 For all of the previous drafts of this post, I have been trying to figure out the answer to that question. I have a lot of thoughts, but there’s no coherence in my thinking. **I have been writing to bring clarity to my understanding about AI.** (yes, with a pen, on a paper)
 
 Read the previous sentence again. No, really, do it. Rest of the text can wait.
