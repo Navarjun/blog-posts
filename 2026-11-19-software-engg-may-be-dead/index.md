@@ -3,6 +3,7 @@ title: Software engineering may be dead, but I am not
 date: 2026-11-19T12:00:00Z-07:00
 categories: [“tech”]
 thumbnail: cover_16x9.jpg
+image: social_640x320.png
 ---
 
 _“All men [or women] want, not something to do with, but something to do, or rather something to be.”_
